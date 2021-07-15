@@ -1,0 +1,5 @@
+* Proyecto de bibiloteca
+
+** funcionalidad del proyecto
+
+** el proyecto cuenta con un login que si no tienes cuenta el proyecto no te va a dejar avanzar asi que primero te tienes que registrar para crear una cuenta despues de que hayas realizado ese paso tendras que ingresar usuario y contraseña y ya entrado al sistema te va a mandra al incio donde te van a dar una bienvenida y lo que hace el sistema despues vamos a encontar unos botones que dicen categorias y libros donde categorias vas a poder ingresar culaquier categoria que tu quieres como por ejemplo teror y a esa misma la  puedes eliminar o modifcar su nombre despues te diriges a libros donde ahi puedes guadar todos los libros que tu quieras en pdf y los puedas guardar en la categoria que tu quiereas tambien a los libros los puedes eliminar ver y descargar las veces que tu los desees esto es todo lo que mi proyecto sabe realizar gracias.
