@@ -2,9 +2,7 @@
 
 ** funcionalidad del proyecto
 
-Herramientas a utilizar
-• CSS: Las hojas de estilo en cascada (Cascading Style Sheets, CSS) son un lenguaje formal usado para definir la presentación de un documento estructurado escrito en HTML o XML (y por extensión en XHTML).
-
+** el proyecto cuenta con un login que si no tienes cuenta el proyecto no te va a dejar avanzar asi que primero te tienes que registrar para crear una cuenta despues de que hayas realizado ese paso tendras que ingresar usuario y contraseña y ya entrado al sistema te va a mandra al incio donde te van a dar una bienvenida y lo que hace el sistema despues vamos a encontar unos botones que dicen categorias y libros donde categorias vas a poder ingresar culaquier categoria que tu quieres como por ejemplo teror y a esa misma la  puedes eliminar o modifcar su nombre despues te diriges a libros donde ahi puedes guadar todos los libros que tu quieras en pdf y los puedas guardar en la categoria que tu quiereas tambien a los libros los puedes eliminar ver y descargar las veces que tu los desees esto es todo lo que mi proyecto sabe realizar gracias.
 • JavaScript, jQuery y AJAX JavaScript es un lenguaje interpretado utilizado principalmente en páginas web, con una sintaxis semejante a la del lenguaje Java. Sin embargo, al contrario que Java, JavaScript no es un lenguaje orientado a objetos propiamente dicho, ya que no dispone de herencia. Es más bien un lenguaje basado en prototipos, ya que las nuevas clases se generan clonando las clases base (prototipos) y extendiendo su funcionalidad.
 
 • jQuery es una biblioteca o framework de JavaScript que permite simplificar la manera de interactuar con los documentos HTML, manipular el arbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la tecnología AJAX a páginas web.
@@ -13,10 +11,7 @@ Herramientas a utilizar
 
 • PHP PHP es un lenguaje interpretado de propósito general ampliamente usado, diseñado especialmente para desarrollo web y que puede ser incrustado dentro de código HTML. Generalmente se ejecuta en un servidor web, tomando el código en PHP como su entrada y creando páginas web como salida
 
-• MySQL MySQL es un sistema de gestión de base de datos relacional, multihilo y multiusuario con más de seis millones de instalaciones.
-
 • XAMPP: Es un servidor independiente de plataforma, software libre, que consiste principalmente en la base de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script: PHP y Perl. Te permite instalar de forma sencilla Apache en tu propio ordenador, sin importar tu sistema operativo (Linux, Windows, MAC o Solaris).
 
-• FRAMEWORK: Es un conjunto estandarizado de conceptos, prácticas y criterios para enfocar un tipo de problemática particular que sirve como referencia, para enfrentar y resolver nuevos problemas de índole similar. En el desarrollo de software, un entorno de trabajo es una estructura conceptual y tecnológica de asistencia definida, normalmente, con artefactos o módulos concretos de software, que puede servir de base para la organización y desarrollo de software.
 
-** el proyecto cuenta con un login que si no tienes cuenta el proyecto no te va a dejar avanzar asi que primero te tienes que registrar para crear una cuenta despues de que hayas realizado ese paso tendras que ingresar usuario y contraseña y ya entrado al sistema te va a mandra al incio donde te van a dar una bienvenida y lo que hace el sistema despues vamos a encontar unos botones que dicen categorias y libros donde categorias vas a poder ingresar culaquier categoria que tu quieres como por ejemplo teror y a esa misma la  puedes eliminar o modifcar su nombre despues te diriges a libros donde ahi puedes guadar todos los libros que tu quieras en pdf y los puedas guardar en la categoria que tu quiereas tambien a los libros los puedes eliminar ver y descargar las veces que tu los desees esto es todo lo que mi proyecto sabe realizar gracias.
+
